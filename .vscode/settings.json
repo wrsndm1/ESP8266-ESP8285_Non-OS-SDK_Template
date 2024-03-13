@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "user_interface.h": "c",
+        "osapi.h": "c",
+        "user_devicefind.h": "c",
+        "socket.h": "c",
+        "uart.h": "c",
+        "uart_register.h": "c"
+    }
+}
